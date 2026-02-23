@@ -109,5 +109,6 @@ Projeto desenvolvido para fins educacionais e construção de portfólio.
 ## 👩‍💻 Autoria
 
 Desenvolvido por **Maria Luisa Sanches**
-Estudante de **Sistemas de Informação**  
-Contato: **https://www.linkedin.com/in/maria-luisa-sanches-ba22b1322/**
+
+🔗 [LinkedIn](https://www.linkedin.com)
+
