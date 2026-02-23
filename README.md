@@ -1,3 +1,12 @@
+# Project Documentation Template
+
+Este repositório contém o template padrão que utilizo para estruturar e documentar meus projetos.
+
+O objetivo é manter consistência, clareza e organização em todos os projetos publicados no meu portfólio.
+
+Sinta-se à vontade para utilizar como base.
+
+
 # Nome do Projeto
 
 Breve descrição do projeto em até 3 linhas.  
